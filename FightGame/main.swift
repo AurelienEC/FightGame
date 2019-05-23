@@ -10,3 +10,6 @@ import Foundation
 
 print("Hello, World!")
 
+var mark = Character(name:"Mark")
+mark.introduice()
+mark.introduiceJP()
